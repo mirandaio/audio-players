@@ -1,2 +1,7 @@
-# audio-players
-React audio players
+React Audio Players
+===================
+
+```
+npm install
+npm start
+```
